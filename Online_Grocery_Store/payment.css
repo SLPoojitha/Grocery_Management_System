@@ -1,0 +1,184 @@
+.first {
+    background-color: #f0a500;
+    height: 97px;
+}
+.profile {
+    height: 32px;
+    width: 34px;
+    border-radius: 17px;
+    border-style: none;
+}
+ .name
+  {
+   display:inline;
+   padding-right: 770px;
+   padding-left:20px;
+  }
+  .p1
+  {
+   padding-left:1030px;
+   padding-top: 10px;
+ }
+ .hello
+{
+ padding-left: 30px;
+ padding-top: 14px;
+ display:inline;
+}
+.extra
+{
+display: inline-block;
+}
+#pay
+{
+  display:inline;
+  padding-left: 80px;
+}
+.card
+{
+ margin-top: 27px;
+ margin-left: 90px;
+ margin-bottom: 30px;
+}
+.cod
+{
+ margin-left: 90px;
+}
+.b1
+{
+ width:140px;
+ height:30px;
+ background-color: #e48257;
+ border-radius: 5px;
+ border-style: none;
+}
+.b2
+{
+ width:140px;
+ height:30px;
+ background-color: #e48257;
+ border-radius: 5px;
+ border-style: none;
+}
+#form1
+{
+display: none;
+}
+#box2 {
+    width: 319px;
+    height: 290px;
+    display: none;
+    margin-left: 600px;
+    margin-top: 30px;
+    background-color: #f0a500;
+    padding-left: 54px;
+    padding-top: 30px;
+}
+ .ph2
+ {
+  margin-top: 35px;
+  margin-left: 65px;
+  width: 150px;
+  height:31px;
+  border-radius: 5px;
+  border-style: none;
+ }
+ .ph1
+ {
+  margin-top: 35px;
+  margin-left: 80px;
+  width: 150px;
+  height:31px;
+  border-radius: 5px;
+  border-style: none;
+ }
+.fp21
+{
+ padding-right: 10px;
+}
+.fi21
+{
+ padding-left: 20px;
+ width:200px;
+ height:29px;
+}
+.fp22
+{
+  padding-right: 27px;
+}
+.fi22
+{
+  padding-left: 37px;
+}
+#img
+{
+ width:760px;
+ height: 392px;
+ padding-left: 200px;
+}
+.second
+{
+
+ display:inline-block;
+ float:left;
+}
+.third
+{
+ height:145px;
+ margin-top:50px;
+ background-color: #046582;
+}
+#box1
+{
+  width:370px;
+  height:640px;
+  display: none;
+  background-color: #f0a500;
+  margin-left: 600px;
+  padding-left: 30px;
+  padding-top: 20px;
+}
+.fp11
+{
+padding-right: 15px;
+}
+.fp12
+{
+padding-right: 10px;
+}
+.fi11
+{
+ padding-left: 20px;
+ margin-bottom: 7px;
+ width:198px;
+ height:27px;
+}
+.fi12
+{
+ padding-left: 15px;
+  margin-bottom: 5px;
+ width:200px;
+ height:27px;
+}
+.fi13
+{
+ padding-left: 20px;
+ width:199px;
+ height:27px;
+}
+.fi14
+{
+ padding-left: 20px;
+ width:200px;
+ height:27px;
+}
+.fp15
+{
+ padding-right: 7px;
+}
+.fi15
+{
+ padding-left: 15px;
+ width:200px;
+ height:27px;
+}

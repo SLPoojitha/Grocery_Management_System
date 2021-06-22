@@ -1,0 +1,149 @@
+.first {
+    background-color: #f0a500;
+    height: 97px;
+}
+ .name
+  {
+   display:inline;
+   padding-right: 770px;
+   padding-left:20px;
+  }
+  .p1
+  {
+   padding-left:1030px;
+   padding-top: 10px;
+ }
+ .profile
+  {
+    height:32px;
+    border-radius: 17px;
+    border-style: none;
+
+  }
+  .cart_profile
+  {
+    height:21px;
+    width:21px;
+    padding-top:1px;
+  }
+  .logout
+   {
+     height:21px;
+     width:21px;
+     padding-top:1px;
+   }
+  .extra
+ {
+  display: inline-block;
+ }
+ .hello
+{
+ padding-left: 30px;
+ padding-top: 14px;
+ display:inline;
+}
+/*
+.grid
+{
+ height:500px;
+ background-color: #f39189;
+ margin-left:30px;
+ margin-right: 25px;
+ margin-top: 15px;
+}*/
+.p2
+{
+ display:inline;
+ padding-left: 60px;
+}
+.buy
+{
+ margin-left: 70px;
+ border-radius:5px;
+ width:100px;
+ height: 30px;
+ background-color:#caf7e3;
+}
+.second
+{
+ margin-top: 29px;
+ background-color: #8f4068;
+ height:150px;
+}
+
+
+.mydatagrid {
+    width: auto;
+    border: solid 2px black;
+    min-width: 80%;
+}
+
+.header {
+    background-color: #646464;
+    font-family: Arial;
+    color: White;
+    border: none 0px transparent;
+    height: 25px;
+    text-align: left;
+    font-size: 16px;
+}
+
+.rows {
+    background-color: #fff;
+    font-family: Arial;
+    font-size: 14px;
+    color: #000;
+    min-height: 25px;
+    text-align: left;
+    border: none 0px transparent;
+}
+
+    .rows:hover {
+        background-color: #ff8000;
+        font-family: Arial;
+        color: #fff;
+        text-align: left;
+    }
+
+.selectedrow {
+    background-color: #ff8000;
+    font-family: Arial;
+    color: #fff;
+    font-weight: bold;
+    text-align: left;
+}
+
+.mydatagrid a /** FOR THE PAGING ICONS  **/ {
+    background-color: Transparent;
+    padding: 5px 5px 5px 5px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+    .mydatagrid a:hover /** FOR THE PAGING ICONS  HOVER STYLES**/ {
+        background-color: #000;
+        color: #fff;
+    }
+
+.mydatagrid span /** FOR THE PAGING ICONS CURRENT PAGE INDICATOR **/ {
+    background-color: #c9c9c9;
+    color: #000;
+    padding: 5px 5px 5px 5px;
+}
+
+.pager {
+    background-color: #646464;
+    font-family: Arial;
+    color: White;
+    height: 30px;
+    text-align: left;
+}
+
+.mydatagrid td {
+    padding: 5px;
+}
+
+.mydatagrid th {
+    padding: 5px;
+}

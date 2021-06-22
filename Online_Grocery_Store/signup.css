@@ -1,0 +1,88 @@
+body {
+    background-color: #51c2d5;
+    text-align: center;
+}
+
+.First {
+    width: 300px;
+    height: 30px;
+}
+
+.Last {
+    width: 300px;
+    height: 30px;
+}
+
+.state {
+    width: 144px;
+    height: 20px;
+}
+
+.country {
+    width: 144px;
+    height: 20px;
+}
+
+.Email {
+    width: 300px;
+    height: 30px;
+}
+
+.Password {
+    width: 300px;
+    height: 30px;
+}
+
+.Confirm {
+    width: 300px;
+    height: 30px;
+}
+
+.check {
+    width: 15px;
+    height: 15px;
+    position: relative;
+    right: 5px;
+}
+
+.one {
+    display: inline;
+    position: relative;
+    bottom: 2px;
+}
+
+.button {
+    background-color: #75cfb8;
+    border: none;
+    width: 100px;
+    height: 30px;
+}
+
+.box {
+    background-color: #f6f5f5;
+    padding-bottom: 20px;
+    padding-top: 30px;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 370px;
+    margin-bottom: 50px;
+}
+
+.Address {
+    width: 300px;
+    height: 30px;
+}
+
+.f1 {
+    background-color: #75cfb8;
+    height: 75px;
+}
+
+.second {
+    background-color: #75cfb8;
+    height: 125px;
+}
+
+.h1 {
+    padding-top: 15px;
+}

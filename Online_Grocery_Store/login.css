@@ -1,0 +1,61 @@
+body {
+    /*background-image: url("back.jpg");*/
+    text-align: center;
+    background-color: #51c2d5;
+}
+
+.checkbox {
+    width: 19px;
+    height: 19px;
+}
+
+.Email {
+    width: 300px;
+    height: 30px;
+}
+
+.Password {
+    width: 300px;
+    height: 30px;
+}
+/*.one
+ {
+  display :inline;
+  position: relative;
+  bottom: 5px;
+ }
+ .two
+  {
+  position:relative;
+  right: 95px;
+  }*/
+.button {
+    width: 196px;
+    height: 30px;
+    background-color: #75cfb8;
+    border: none;
+}
+
+.box {
+    background-color: #f6f5f5;
+    width: 400px;
+    padding-bottom: 22px;
+    padding-top: 30px;
+    margin-top: 80px;
+    margin-left: 420px;
+    margin-bottom: 100px;
+}
+
+.first {
+    height: 75px;
+    background-color: #75cfb8;
+}
+
+.second {
+    background-color: #75cfb8;
+    height: 125px;
+}
+
+.h1 {
+    padding-top: 15px;
+}

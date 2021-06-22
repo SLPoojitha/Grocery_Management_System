@@ -1,0 +1,423 @@
+.name
+ {
+  display:inline;
+  padding-right: 770px;
+  padding-left:20px;
+ }
+ .p1
+ {
+  padding-left:1000px;
+  padding-top: 10px;
+ }
+.cart
+ {
+  height: 32px;
+  width: 34px;
+  border-radius: 17px;
+  border-style: none;
+  position: relative;
+  padding-right: 10px;
+  margin-left:15px;
+ }
+ .cart_image
+  {
+  height:20px;
+  width:20px;
+  padding-top:1px;
+  }
+.profile
+ {
+   height:32px;
+   width: 34px;
+   border-radius: 17px;
+   border-style: none;
+ }
+ .cart_profile
+ {
+   height:21px;
+   width:21px;
+   padding-top:1px;
+ }
+ .logout
+  {
+    height:21px;
+    width:21px;
+    padding-top:1px;
+  }
+.first
+ {
+ background-color: #f0a500;
+ height:97px;
+ }
+.h3
+ {
+  display:inline;
+  position: relative;
+  padding-left: 27px;
+ }
+.text
+ {
+  width:798px;
+  height:25px;
+ }
+.button
+ {
+   height:31px;
+   width: 100px;
+   border-radius: 5px;
+   border-style: none;
+ }
+.third
+ {
+   width:247px;
+   height:495px;
+   background-color:#f0a500;
+  text-align: center;
+  float:left;
+ }
+.fruits
+ {
+   height:27px;
+   width: 151px;
+   border-radius: 5px;
+   border-style: none;
+ }
+.vegetables
+ {
+   height:27px;
+   width: 151px;
+   border-radius: 5px;
+   border-style: none;
+ }
+.dairy
+ {
+   height:27px;
+   width: 151px;
+   border-radius: 5px;
+   border-style: none;
+ }
+.beverages
+ {
+   height:27px;
+   width: 151px;
+   border-radius: 5px;
+   border-style: none;
+ }
+.clean
+{
+  height:27px;
+  width: 151px;
+  border-radius: 5px;
+  border-style: none;
+}
+.care
+{
+  height:27px;
+  width: 151px;
+  border-radius: 5px;
+  border-style: none;
+}
+.others
+{
+  height:27px;
+  width: 151px;
+  border-radius: 5px;
+  border-style: none;
+}
+.four
+{
+clear:left;
+}
+.five
+{
+  background-color: #f0a500;
+  width: auto;
+  height: 132px;
+}
+
+.mySlides
+{
+ width:900px;
+ height:400px;
+ position:relative;
+ padding-left: 35px;
+}
+.set1
+{
+width:130px;
+height:130px;
+padding-left: 17px;
+}
+a:link,a:visited,a:hover
+{
+color:black;
+}
+/*.set2
+{
+width:190px;
+height:240px;
+border-style: solid;
+border-color: #f0a500;
+position:relative;
+padding-left: 50px;
+}*/
+/*fruits css*/
+.apples
+ {
+  width:160px;
+  height:189px;
+  border:2px solid #f0a500;
+  margin-left:15px;
+  float:left;
+ }
+.watermelon
+ {
+   width:160px;
+   height:189px;
+   border:2px solid #f0a500;
+   margin-left:40px;
+   float:left;
+  }
+.mango
+ {
+     width:160px;
+     height:189px;
+     border:2px solid #f0a500;
+     margin-left:40px;
+     float:left;
+ }
+.orange
+{
+    width:160px;
+    height:189px;
+    border:2px solid #f0a500;
+    margin-left:40px;
+    float:left;
+}
+.banana
+ {
+   width:160px;
+   height:189px;
+   border:2px solid #f0a500;
+   margin-left:40px;
+   float:left;
+ }
+.kiwi
+ {
+   width:160px;
+   height:189px;
+   border:2px solid #f0a500;
+   margin-left:70px;
+   margin-top: 25px;
+   float:left;
+ }
+.papaya
+ {
+   width:160px;
+   height:189px;
+   border:2px solid #f0a500;
+   margin-left:70px;
+   margin-top: 25px;
+   float:left;
+ }
+.guava
+{
+  width:160px;
+  height:189px;
+  border:2px solid #f0a500;
+  margin-left:70px;
+  margin-top: 25px;
+  float:left;
+}
+.pomogranete
+{
+  width:160px;
+  height:189px;
+  border:2px solid #f0a500;
+  margin-left:70px;
+  margin-top: 25px;
+  float:left;
+}
+ .set1
+ {
+ width:130px;
+ height:130px;
+ padding-left: 17px;
+ }
+.apples1
+ {
+  position:relative;
+  padding-left:50px;
+ }
+.watermelon1
+ {
+  position:realtive;
+  padding-left:30px;
+ }
+.mango1
+ {
+  position:relative;
+  padding-left:39px;
+ }
+.orange1
+ {
+   position:relative;
+   padding-left:42px;
+ }
+.banana1
+ {
+   position:relative;
+   padding-left:37px;
+ }
+.kiwi1
+ {
+   position:relative;
+   padding-left:51px;
+ }
+.papaya1
+ {
+   position:relative;
+   padding-left:41px;
+ }
+.guava1
+{
+  position:relative;
+  padding-left:42px;
+}
+.pomogranete1
+{
+  position:relative;
+  padding-left:37px;
+}
+.category
+{
+ background-color: #f0a500;
+ height:40px;
+ text-align: center;
+}
+.c1
+{
+ padding-top:7px;
+}
+/*vegetables css*/
+.carrot1
+ {
+   position:relative;
+   padding-left:42px;
+ }
+.beetroot1
+ {
+   position:relative;
+   padding-left:43px;
+ }
+.Ladys_finger1
+ {
+   position:relative;
+   padding-left:37px;
+ }
+.cabbage1
+{
+  position:relative;
+  padding-left:37px;
+}
+.cauliflower1
+{
+  position:relative;
+  padding-left:37px;
+}
+.tomato1
+{
+  position:relative;
+  padding-left:37px;
+}
+.potato1
+{
+  position:relative;
+  padding-left:37px;
+}
+.peas1
+{
+  position:relative;
+  padding-left:51px;
+}
+.capsicum1
+{
+  position:relative;
+  padding-left:37px;
+}
+.carrot
+ {
+   width:160px;
+   height:189px;
+   border:2px solid #f0a500;
+   margin-left:65px;
+   margin-top:25px;
+   float:left;
+ }
+.beetroot
+ {
+   width:160px;
+   height:189px;
+   border:2px solid #f0a500;
+   margin-left:65px;
+   margin-top:25px;
+   float:left;
+ }
+.Ladys_finger
+ {
+   width:160px;
+   height:189px;
+   border:2px solid #f0a500;
+   margin-top:25px;
+   margin-left:70px;
+   float:left;
+ }
+.cabbage
+ {
+   width:160px;
+   height:189px;
+   border:2px solid #f0a500;
+   margin-left:40px;
+   float:left;
+ }
+.cauliflower
+ {
+   width:160px;
+   height:189px;
+   border:2px solid #f0a500;
+   margin-left:40px;
+   float:left;
+ }
+.capsicum
+ {
+   width:160px;
+   height:189px;
+   border:2px solid #f0a500;
+   margin-left:65px;
+   margin-top:25px;
+   float:left;
+ }
+.peas
+ {
+   width:160px;
+   height:189px;
+   border:2px solid #f0a500;
+   margin-left:40px;
+   float:left;
+ }
+.tomato
+ {
+   width:160px;
+   height:189px;
+   border:2px solid #f0a500;
+   margin-left:15px;
+   float:left;
+ }
+.potato
+ {
+   width:160px;
+   height:189px;
+   border:2px solid #f0a500;
+   margin-left:40px;
+   float:left;
+ }
